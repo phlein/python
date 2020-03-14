@@ -1,5 +1,5 @@
 #asks the user to enter an integer
-#tests if the entered integer is divisible by 5, 3 or both (and prints Buzz, Fizz or Fizzbuzz, respectively)
+#and tests if the entered integer is divisible by 5, 3 or both (and prints Buzz, Fizz or Fizzbuzz, respectively)
 #also let's the user know if zero was entered.
 try:
     number = int(input("Please enter an integer: "))
